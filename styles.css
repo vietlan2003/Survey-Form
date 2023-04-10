@@ -1,0 +1,16 @@
+.btn {
+  color: white;
+}
+
+.btn:hover {
+  color: rgb(241 243 244);
+}
+
+.px-3 {
+  padding-right: 0.7rem !important;
+  padding-left: 0.7rem !important;
+}
+
+.form-control {
+  background-color: #edeff5;
+}
